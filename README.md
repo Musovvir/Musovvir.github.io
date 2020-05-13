@@ -6,4 +6,6 @@
 
 - [Список дел](https://musovvir.github.io/todos/)
 
-- [Вёрстка 1-ой стр.](https://musovvir.github.io/test/)
+- [Вёрстка стр.](https://musovvir.github.io/test/)
+
+- [Вёрстка 1-ой стр.](https://musovvir.github.io/test-1/)
