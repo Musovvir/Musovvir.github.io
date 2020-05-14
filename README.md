@@ -9,3 +9,5 @@
 - [Вёрстка стр.](https://musovvir.github.io/test/)
 
 - [Вёрстка 1-ой стр.](https://musovvir.github.io/test-1/)
+
+- [Вёрстка 2-ой стр.](https://musovvir.github.io/test-2/)
